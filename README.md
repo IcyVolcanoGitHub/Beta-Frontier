@@ -42,6 +42,16 @@ Join us on this journey through time and rediscover the joy of Minecraft Beta, a
 
 #
 ### <center></center>
+### <center>Other projects</center>
+
+<center></center>
+<center>  
+  
+[![Minecraft Evolved](https://cdn.modrinth.com/data/cached_images/144d4de84556635375e313dcc67ea27c88336ea1.png)](https://modrinth.com/modpack/evolved)
+[![New Origins](https://cdn.modrinth.com/data/cached_images/e17eee8070ce2ace6d4c2648a09b5645ee2c53a2.png)](https://modrinth.com/modpack/new-origins)
+
+#
+### <center></center>
 ### <center>Credits</center>
 <details>
 <summary>Mods and Resourcepacks</summary>
